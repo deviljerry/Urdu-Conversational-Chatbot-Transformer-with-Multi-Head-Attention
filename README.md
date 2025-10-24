@@ -141,3 +141,23 @@ Results showed good fluency and meaningful Urdu responses even for unseen inputs
 streamlit run app.py
 # or
 python gradio_chatbot.py
+
+
+
+## 🧑‍💻 Authors
+
+👤 **Group Members:**
+
+- **Qasim Naveed**  
+- **[Group Partner Name Here]**
+
+---
+
+## 🏁 Conclusion
+
+This Urdu Conversational Chatbot highlights the power of **Transformer architectures** for low-resource languages.  
+It achieves promising fluency and contextual relevance in Urdu responses and can serve as a foundation for **educational, customer service, or personal assistant systems** in Urdu.
+
+---
+
+⭐ **If you like this project, please give it a star on GitHub!** ⭐
