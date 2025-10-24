@@ -142,14 +142,13 @@ streamlit run app.py
 # or
 python gradio_chatbot.py
 
+```
 
+## 🧑‍💻 Author & Developer
+**Qasim Naveed**
 
-## 🧑‍💻 Authors
-
-👤 **Group Members:**
-
-- **Qasim Naveed**  
-- **[Group Partner Name Here]**
+## 🧑‍🏫 Instructor
+**Dr. Osama**
 
 ---
 
